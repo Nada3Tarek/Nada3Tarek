@@ -91,7 +91,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nada3Tarek&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nada3Tarek&layout=compact&theme=tokyonight)
 
 ---
 
