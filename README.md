@@ -91,7 +91,8 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nada3Tarek&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nada3Tarek&layout=compact&theme=github_dark)
+
 ---
 
 > ✨ *“Code is like humor. When you have to explain it, it’s bad.”*
