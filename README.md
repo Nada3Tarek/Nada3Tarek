@@ -1,97 +1,108 @@
 # 👋 Hi, I'm Nada Tarek
 
-![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120">
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Computer+Science+Graduate;Flutter+Developer;Backend+Developer;AI+%7C+REST+APIs+%7C+Cloud;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+<p align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Flutter+Developer;Backend+Developer;REST+API+Enthusiast;AI+%7C+Cloud+%7C+Software+Engineering;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-## 👩‍💻 About Me
-
-🎓 Computer Science Graduate – Ain Shams University
-
-📱 Passionate about Mobile Application Development with Flutter
-
-⚙️ Interested in Backend Development, REST APIs, and System Design
-
-🤖 Experienced in AI-powered Applications and Software Engineering
-
-☁️ Familiar with Docker, Kubernetes, and Cloud-based Architectures
-
-🚀 Always building, learning, and improving my skills
+</p>
 
 ---
 
-## 🌐 Connect with Me
+# 👩‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nada-tarek-81a369208/)
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/Nada3Tarek)
+🎓 Computer Science Graduate — Ain Shams University
+
+📱 Flutter Mobile Developer
+
+⚙️ Interested in Backend Development & System Design
+
+🌐 Experienced in REST APIs, Node.js & Express.js
+
+🤖 Passionate about AI-powered Applications
+
+☁️ Familiar with Docker, Kubernetes & Cloud Technologies
+
+🚀 Always learning, building, and improving.
+
+---
+
+# 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nada-tarek-81a369208/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Nada3Tarek)
 
 ---
 
 # 💻 Tech Stack
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-### 📱 Mobile Development
+### 📱 Mobile
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
 ### 🌐 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ---
 
 ### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios)
 
 ---
 
 ### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ---
 
-### ☁️ Cloud & DevOps
+### ☁️ DevOps & Cloud
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary)
 
 ---
 
 ### 🛠️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea)
 
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nada3Tarek&layout=compact&theme=github_dark)
 ---
 
 > ✨ *“Code is like humor. When you have to explain it, it’s bad.”*
+
+
+</p>
+
